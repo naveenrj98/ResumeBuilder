@@ -30,6 +30,50 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
+
+        <activity
+            android:name=".Activities.personalActivity"
+            tools:ignore="InnerclassSeparator">
+
+        </activity>
+        <activity
+            android:name=".Activities.personalQualityActivity"
+            android:label="@string/qlabel"
+            tools:ignore="InnerclassSeparator" >
+
+        </activity>
+        <activity
+            android:name=".Activities.techSkillsActivity"
+            android:label="@string/skill_label"
+            tools:ignore="InnerclassSeparator" >
+
+        </activity>
+        <activity
+            android:name=".Activities.AcademiaActivity"
+            android:label="@string/academia"
+            tools:ignore="InnerclassSeparator" >
+
+        </activity>
+        <activity
+            android:name=".Activities.trainingActivity"
+            android:label="@string/training_label"
+            android:screenOrientation="fullSensor"
+            tools:ignore="InnerclassSeparator">
+
+        </activity>
+        <activity
+            android:name=".Activities.InterestActivity"
+            android:label="@string/aoi_label"
+            tools:ignore="InnerclassSeparator" >
+
+        </activity>
+        <activity
+            android:name=".Activities.finalActivity"
+            android:label="@string/final_label"
+            android:screenOrientation="fullSensor"
+            tools:ignore="InnerclassSeparator" >
+
+        </activity>
     </application>
 
 </manifest>

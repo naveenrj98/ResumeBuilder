@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="text_input_margin_bottom">4dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="padding_top">25dp</dimen>
 </resources>
